@@ -1,8 +1,18 @@
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require('body-parser');
+const dotenv = require("dotenv");
+
+// Add to local .env file:
+// PORT = 5050
+// DB_User = ""
+// DB_PW = ""
+
+dotenv.config();
 
 const PORT = process.env.PORT || 5050;
+const DB_User = process.env.DB_User;
+const DB_PW = process.env.DB_PW;
 
 let data =  [
     { id: 1, title: "Register for THAT", desc: "2023 is going to be amazing!", status: "done"},
