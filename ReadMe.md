@@ -11,4 +11,4 @@ This is an unfinished TODO add in React
 
 Mongo DB connection details need to be added to a .env file in the /back-end folder
 
-Workshop [site|https://javascripteverything.com/landing/learn-to-mern.php] | [Slides|https://docs.google.com/presentation/d/1JXMArDZAv_5bopw5_BN-gJzn05ghuNjosNZjOZKXqAk/edit?usp=sharing]
+Workshop [site](https://javascripteverything.com/landing/learn-to-mern.php) | [Slides](https://docs.google.com/presentation/d/1JXMArDZAv_5bopw5_BN-gJzn05ghuNjosNZjOZKXqAk/edit?usp=sharing)
