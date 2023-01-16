@@ -1,9 +1,10 @@
 Code from the Learn Mern workshop at the 2023 THAT Conference
+----
 
-Mongo
-Express
-React
-Node.js
+***M***ongo
+***E***xpress
+***R***eact
+***N***ode.js
 
 The Crud API in Express has been completed (connecting to MongoDB). Next step is to complete the react app and add state management so that it can leverage the API. 
 
